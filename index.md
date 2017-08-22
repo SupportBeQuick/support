@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Привет мир
 
 You can use the [editor on GitHub](https://github.com/SupportBeQuick/support/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
